@@ -1,0 +1,3 @@
+﻿  Ajedrez.cpp
+C:\Users\chris\Desktop\UNL\Materias\6 - Modelos y Algoritmos para Videojuegos I\Proyecto SFML\Proyecto SFML\Proyecto SFML\Ajedrez.cpp(45,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Proyecto SFML.vcxproj -> C:\Users\chris\Desktop\UNL\Materias\6 - Modelos y Algoritmos para Videojuegos I\Proyecto SFML\Proyecto SFML\x64\Debug\Proyecto SFML.exe
